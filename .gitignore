@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+token_cache.json
+users.json
+devices.json
+popup_config.json
+*.log
+venv/
+.venv/
